@@ -8,7 +8,7 @@
         <array>
             <string>/path/to/python/executable/</string>
             <string>/path/to/python/file</string>
-        </array>   
+        </array>
         <key>KeepAlive</key>
         <false/>
         <key>RunAtLoad</key>
