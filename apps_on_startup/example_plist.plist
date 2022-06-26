@@ -10,7 +10,7 @@
             <string>/path/to/python/file</string>
         </array>
         <key>KeepAlive</key>
-        <false/>
+        <false/> 
         <key>RunAtLoad</key>
         <true/>
     </dict>
