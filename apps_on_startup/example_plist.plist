@@ -7,7 +7,7 @@
         <key>ProgramArguments</key>
         <array>
             <string>/path/to/python/executable/</string>
-            <string>/path/to/python_file</string>
+            <string>/path/to/python/file</string>
         </array>
         <key>KeepAlive</key>
         <false/>
