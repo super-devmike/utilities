@@ -28,9 +28,7 @@ def open_apps():
         print('Opening app: ' + app)
         maximise_app(app)
         os.system(f'open -a{ app }')
-
-
-# maximise app window on start
+# maximise window on start
 def maximise_app(app):
     os.system(
         f'osascript -e "tell application {app} activate tell application \"System Events\" keystroke \"f\" using control down, command down"')
