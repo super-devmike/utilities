@@ -22,8 +22,6 @@ import os
 
 apps_to_open = ['Microsoft\ Edge', 'Visual\ Studio\ Code', 'iTerm']
 
-# write script to open macos apps
-
 
 def open_apps():
     for app in apps_to_open:
